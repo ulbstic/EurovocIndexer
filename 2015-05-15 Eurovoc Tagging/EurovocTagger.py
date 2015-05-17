@@ -9,48 +9,6 @@ from nltk.stem.snowball import SnowballStemmer # il est disponible en de nobmreu
 ####################################################
 ###################################################
 
-def DicFromTsv(path):
-    # !!! It only works with a 2 columns TSV file
-    key = 0
-    value = ""
-    EurovocDic = {}
-    with open(path, 'rt', encoding='utf8') as csvfile:
-        myreader = csv.reader(csvfile, delimiter='\t')
-        rcount = 0
-        for row in myreader:
-            rcount += 1
-            ccount = 0
-            if rcount > 1:
-                for cells in row:
-                    ccount += 1
-                    if ccount ==1:
-                        key = cells
-                    else:
-                        value = cells
-                Dic[key] = value
-    return Dic
-
-def EurovocReverseDic(path):
-    # !!! It only works with a 2 columns TSV file
-    key = 0
-    value = ""
-    EurovocReverseDic = {}
-    with open(path, 'rt', encoding='utf8') as csvfile:
-        myreader = csv.reader(csvfile, delimiter='\t')
-        rcount = 0
-        for row in myreader:
-            rcount += 1
-            ccount = 0
-            if rcount > 1:
-                for cells in row:
-                    ccount += 1
-                    if ccount ==1:
-                        key = cells
-                    else:
-                        value = cells
-                EurovocReverseDic[value] = key
-    return EurovocReverseDic
-
 def TsvDicProcessing(path):
     # !!! It only works with a 2 columns TSV file
     Dic = {}
@@ -77,6 +35,24 @@ def TsvDicProcessing(path):
     return Dic, RevDic, list1, list2
 
 
+def FolderListWithTerminaison(terminaison):
+    DocList = []
+    for doc in os.listdir():
+        if re.search (r'.*\%s$' % terminaison,doc) != None:
+            DocList.append(doc)
+    return DocList
+
+def FolderListToDic(List):
+    Dic = {}
+    # the input should be a list of file contained in a folder
+    for FileName in List:
+        print('importing', FileName, '...')
+        with open("%s" % FileName, "r", encoding='utf8') as myfile:
+            text = myfile.read()
+        Dic[FileName]= text
+    return Dic
+    
+
 
 #####################################################
 ####################################################
@@ -96,24 +72,16 @@ print('Eurovoc importated!')
 
 # création d'une liste avec le nom des documents
 
-os.chdir('corpus/')
-DocList = []
-
-# filtrage
-for doc in os.listdir():
-    if re.search (r'.*\.txt$',doc) != None:
-        DocList.append(doc)
-
 print('moving to corpus folder...')
+os.chdir('corpus/')
+
+# détection des TXT dans le dossier
+
+DocList = FolderListWithTerminaison('.txt')
+
 # stockage du contenu des documents dans un dictionnaire
 
-DocumentDic = {}
-
-for DocName in DocList:
-    print('importing', DocName, '...')
-    with open("%s" % DocName, "r", encoding='utf8') as myfile:
-        text = myfile.read()
-    DocumentDic[DocName]= text               
+DocumentDic = FolderListToDic(DocList)             
 
 #=====================
 
