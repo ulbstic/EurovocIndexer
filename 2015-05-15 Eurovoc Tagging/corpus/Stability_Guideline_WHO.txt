@@ -1,0 +1,514 @@
+87© World Health OrganizationWHO Technical Report Series, No. 953, 2009Annex 2Stability testing of active pharmaceutical ingredients and ﬁ nished pharmaceutical products1. Introduction 1.1 Objectives of these guidelines
+ 1.2  Scope of these guidelines
+ 1.3 General principles2. Guidelines 2.1 Active pharmaceutical ingredient …………………  2.1.1 General
+  2.1.2 Stress testing
+  2.1.3 Selection of batches
+  2.1.4 Container closure system
+  2.1.5 Speciﬁ cation
+  2.1.6 Testing frequency
+  2.1.7 Storage conditions……  2.1.8 Stability commitment
+  2.1.9 Evaluation
+  2.1.10 Statements and labelling
+  2.1.11 Ongoing stability studies
+ 2.2 Finished pharmaceutical product
+  2.2.1 General
+  2.2.2 Selection of batches
+  2.2.3 Container closure system
+  2.2.4 Speciﬁ cation
+  2.2.5 Testing frequency
+  2.2.6 Storage conditions  2.2.7 Stability commitment
+  2.2.8 Evaluation  2.2.9 Statements and labelling
+  2.2.10 In-use stability
+  2.2.11 Variations
+  2.2.12 Ongoing stability studies3. Glossary
+References
+Appendix 1Long-term stability testing conditions as identiﬁ ed by WHO Member States.Appendix 2Examples of testing parameters…Appendix 3Recommended labelling statements…881. Introduction1.1 Objectives of these guidelinesThese guidelines seek to exemplify the core stability data package required for registration of active pharmaceutical ingredients (APIs) and 
+ﬁ nished pharmaceutical products (FPPs), replacing the previous WHO guidelines in this area (1,2). However, alternative approaches can be used when they are scientiﬁ cally justiﬁ ed. Further guidance can be found in International Conference on Harmonisation (ICH) guidelines (3)and in theWHOguidelines on the active pharmaceutical ingredient master ﬁ le procedure (4).It is recommended that these guidelines should also be applied to products that are already being marketed, with allowance for an appropriate transition 
+period, e.g. upon re-registration or upon re-evaluation.1.2 Scope of these guidelinesThese guidelines apply to new and existing APIs and address information to be submitted in original and subsequent applications for marketing 
+authorization of their related FPP for human use. These guidelines are not 
+applicable to stability testing for biologicals (for details on vaccines please 
+seeWHO guidelines for stability evaluation of vaccines (5)).1.3 General principlesThe purpose of stability testing is to provide evidence of how the quality of an API or FPP varies with time under the inﬂ uence of a variety of environmental factors such as temperature, humidity and light. The 
+stability programme also includes the study of product-related factors 
+that inﬂ uence its quality, for example, interaction of API with excipients, container closure systems and packaging materials. In ﬁ xed-dose combination FPPs (FDCs) the interaction between two or more APIs also 
+has to be considered.As a result of stability testing a re-test period for the API (in exceptional cases, e.g. for unstable APIs, a shelf-life is given) or a shelf-life for the FPP 
+can be established and storage conditions can be recommended.Various analyses have been done to identify suitable testing conditions for WHO Member States based on climatic data and are published in 
+the literature (6–9) on the basis of which each Member State can make its decision on long-term (real-time) stability testing conditions. Those 
+Member States that have notiﬁ ed WHO of the long-term stability testing conditions they require when requesting a marketing authorization are 
+listed in Appendix 1.892. Guidelines2.1 Active pharmaceutical ingredient2.1.1 GeneralInformation on the stability of the API is an integral part of the systematic approach to stability evaluation. Potential attributes to be tested on an API 
+during stability testing are listed in the examples of testing parameters 
+(Appendix 2).The re-test period or shelf-life assigned to the API by the API manufacturer should be derived from stability testing data.2.1.2 Stress testingStress testing of the API can help identify the likely degradation products, 
+which, in turn, can help establish the degradation pathways and the intrinsic 
+stability of the molecule and validate the stability-indicating power of the 
+analytical procedures used. The nature of the stress testing will depend on 
+the individual API and the type of FPP involved.For an API the following approaches may be used:—when available, it is acceptable to provide the relevant data published in the scientiﬁ c literature to support the identiﬁ ed degradation products and pathways;—when no data are available, stress testing should be performed.Stress testing may be carried out on a single batch of the API. It should include the effect of temperature (in 10 °C increments (e.g. 50 °C, 60 °C, 
+etc.) above the temperature used for accelerated testing), humidity (e.g. 75% 
+relative humidity (RH) or greater) and, where appropriate, oxidation and 
+photolysis on the API. The testing should also evaluate the susceptibility of 
+the API to hydrolysis across a justiﬁ ed range of pH values when in solution or suspension (10).Assessing the necessity for photostability testing should be an integral part of a stress testing strategy. More details can be found in other guidelines (3).Results from these studies will form an integral part of the information provided to regulatory authorities.2.1.3 Selection of batchesData from stability studies on at least three primary batches of the API 
+should normally be provided. The batches should be manufactured to a 
+minimum of pilot scale by the same synthesis route as production batches, 
+and using a method of manufacture and procedure that simulates the ﬁ nal process to be used for production batches. The overall quality of the batches 90of API placed on stability studies should be representative of the quality of the material to be made on a production scale.For existing active substances that are known to be stable, data from at least two primary batches should be provided.2.1.4  Container closure systemThe stability studies should be conducted on the API packaged in a container 
+closure system that is the same as, or simulates, the packaging proposed for 
+storage and distribution.2.1.5  Speciﬁ cationStability studies should include testing of those attributes of the API that are susceptible to change during storage and are likely to inﬂ uence quality, safety and/or efﬁ cacy. The testing should cover, as appropriate, the physical, chemical, biological and microbiological attributes. A guide as to the potential 
+attributes to be tested in the stability studies is provided in Appendix 2.Validated stability-indicating analytical procedures should be applied. 
+Whether and to what extent replication should be performed will depend on 
+the results from validation studies (11).2.1.6  Testing frequencyFor long-term studies, frequency of testing should be sufﬁ cient to establish the stability proﬁ le of the API.For APIs with a proposed re-test period or shelf-life of at least 12 months, the frequency of testing at the long-term storage condition should normally be 
+every three months over the ﬁ rst year, every six months over the second year, and annually thereafter throughout the proposed re-test period or shelf-life.At the accelerated storage condition, a minimum of three time points, 
+including the initial and ﬁ nal time points (e.g. 0, 3 and 6 months), from a six-month study is recommended. Where it is expected (based on development 
+experience) that results from accelerated studies are likely to approach 
+signiﬁ cant change criteria, increased testing should be conducted either by adding samples at the ﬁ nal time point or by including a fourth time point in the study design. When testing at the intermediate storage condition is called 
+for as a result of signiﬁ cant change at the accelerated storage condition, a minimum of four time points, including the initial and ﬁ nal time points (e.g. 0, 6, 9 and 12 months), from a 12-month study is recommended.2.1.7 Storage conditionsIn general an API should be evaluated under storage conditions (with 
+appropriate tolerances) that test its thermal stability and, if applicable, its 91sensitivity to moisture. The storage conditions and the lengths of studies chosen should be sufﬁ cient to cover storage and shipment.Storage condition tolerances are deﬁ ned as the acceptable variations in temperature and relative humidity of storage facilities for stability studies. 
+The equipment used should be capable of controlling the storage conditions 
+within the ranges deﬁ ned in these guidelines. The storage conditions should be monitored and recorded. Short-term environmental changes due to 
+opening the doors of the storage facility are accepted as unavoidable. The 
+effect of excursions due to equipment failure should be assessed, addressed 
+and reported if judged to affect stability results. Excursions that exceed the 
+deﬁ ned tolerances for more than 24 hours should be described in the study report and their effects assessed.The long-term testing should normally take place over a minimum of 12 months for the number of batches speciﬁ ed in section 2.1.3 at the time of submission, and should be continued for a period of time sufﬁ cient to cover the proposed re-test period or shelf-life. For existing substances that 
+are known to be stable, data covering a minimum of six months may be 
+submitted. Additional data accumulated during the assessment period of the 
+registration application should be submitted to the authorities upon request. 
+Data from the accelerated storage condition and, if appropriate, from the 
+intermediate storage condition can be used to evaluate the effect of short-
+term excursions outside the label storage conditions (such as might occur 
+during shipping).Long-term, accelerated and, where appropriate, intermediate storage conditions for APIs are detailed in sections 2.1.7.1–2.1.7.3. The general 
+case applies if the API is not speciﬁ cally covered by a subsequent section. Alternative storage conditions can be used if justiﬁ ed.If long-term studies are conducted at 25 °C ± 2 °C/60% RH ± 5% RH and “signiﬁ cant change” occurs at any time during six months’ testing at the accelerated storage condition, additional testing at the intermediate 
+storage condition should be conducted and evaluated against signiﬁ cant change criteria. In this case, testing at the intermediate storage condition 
+should include all long-term tests, unless otherwise justiﬁ ed, and the initial application should include a minimum of six months’ data from a 12-month 
+study at the intermediate storage condition.“Signiﬁ cant change” for an API is deﬁ ned as failure to meet its speciﬁ cation.922.1.7.1 General caseStudyStorage conditionMinimum time period covered by data at submissionLong-terma25 °C ± 2 °C/60% RH ± 5% RH or30 °C ± 2 °C/65% RH ± 5% RH or
+30 °C ± 2 °C/75% RH ± 5% RH12 months or 6 months as described in point 2.1.7 Intermediateb30 °C ± 2 °C/65% RH ± 5% RH6 monthsAccelerated40 °C ± 2 °C/75% RH ± 5% RH6 months a Whether long-term stability studies are performed at 25 °C ± 2 °C/60% RH ± 5% RH or 30 °C ± 2 °C/65% RH ± 5% RH or 30 °C ± 2 °C/75% RH ± 5% RH is determined by the climatic condition under which the API is 
+intended to be stored (see Appendix 1). Testing at a more severe long-term condition can be an alternative to 
+testing condition, i.e. 25 °C/60% RH or 30 °C/65% RH.b If 30 °C ± 2 °C/65% RH ± 5% RH or 30 °C ± 2 °C/75% RH ± 5% RH is the long-term condition there is no intermediate condition.2.1.7.2 Active pharmaceutical ingredients intended for storage in a refrigeratorStudyStorage conditionMinimum time period covered by data at submissionLong-term5 °C ± 3 °C12 monthsAccelerateda25 °C ± 2 °C/60% RH ± 5% RH or30 °C ± 2 °C/65% RH ± 5% RH or 
+30 °C ± 2 °C/75% RH ± 5% RH6 months a Whether accelerated stability studies are performed at 25 ± 2 °C/60% RH ± 5% RH or 30 °C ± 2 °C/65% RH ± 5% RH or 30 °C ± 2 °C/75% RH ± 5% RH is based on a risk-based evaluation. Testing at a more severe long-
+term condition can be an alternative to storage testing at 25 °C/60%RH or 30 °C/65%RH.Data on refrigerated storage should be assessed according to the evaluation section of these guidelines, except where explicitly noted below.If signiﬁ cant change occurs between three and six months’ testing at the accelerated storage condition, the proposed re-test period should be based 
+on the data available at the long-term storage condition.If signiﬁ cant change occurs within the ﬁ rst three months’ testing at the accelerated storage condition a discussion should be provided to address 
+the effect of short-term excursions outside the label storage condition, 
+e.g. during shipping or handling. This discussion can be supported, if 
+appropriate, by further testing on a single batch of the API for a period 
+shorter than three months but with more frequent testing than usual. It 
+is considered unnecessary to continue to test an API for the whole six 
+months when a signiﬁ cant change has occurred within the ﬁ rst three months.932.1.7.3 Active pharmaceutical ingredients intended for storage in a freezerStudyStorage conditionMinimum time period covered by data at submissionLong-term-20 °C ± 5 °C12 monthsIn the rare case of any API of non-biological origin being intended for storage in a freezer, the re-test period or shelf-life should be based on the 
+long-term data obtained at the long-term storage condition. In the absence of 
+an accelerated storage condition for APIs intended to be stored in a freezer, 
+testing on a single batch at an elevated temperature (e.g. 5 °C ± 3 °C or 25 °C 
+± 2 °C or 30 °C ± 2 °C) for an appropriate time period should be conducted 
+to address the effect of short-term excursions outside the proposed label 
+storage condition, e.g. during shipping or handling.2.1.7.4 Active pharmaceutical ingredients intended for storage below -20°CAPIs intended for storage below -20 °C should be treated on a case-by-case 
+basis.2.1.8 Stability commitmentWhen the available long-term stability data on primary batches do not cover 
+the proposed re-test period granted at the time of approval, a commitment 
+should be made to continue the stability studies post-approval in order to 
+ﬁ rmly establish the re-test period or shelf-life.Where the submission includes long-term stability data on the number of production batches speciﬁ ed in section 2.1.3 covering the proposed re-test period, a post-approval commitment is considered unnecessary. Otherwise 
+one of the following commitments should be made:If the submission includes data from stability studies on the number of •production batches speciﬁ ed in section 2.1.3, a commitment should be made to continue these studies through the proposed re-test period.
+If the submission includes data from stability studies on fewer than the •number of production batches speciﬁ ed in section 2.1.3, a commitment should be made to continue these studies through the proposed re-test 
+period and to place additional production batches, to a total of at least 
+three, in long-term stability studies through the proposed re-test period.
+If the submission does not include stability data on production batches, •a commitment should be made to place the ﬁ rst two or three production batches (see section 2.1.3) on long-term stability studies through the 
+proposed re-test period.The stability protocol used for long-term studies for the stability commitment should be the same as that for the primary batches, unless otherwise 
+scientiﬁ cally justiﬁ ed.942.1.9 EvaluationThe purpose of the stability study is to establish, based on testing a minimum of the number of batches speciﬁ ed in section 2.1.3, unless otherwise justiﬁ ed and authorized, of the API and evaluating the stability information (including, as appropriate, results of the physical, chemical, biological and 
+microbiological tests), a re-test period applicable to all future batches of the 
+API manufactured under similar circumstances. The degree of variability of 
+individual batches affects the conﬁ dence that a future production batch will remain within speciﬁ cation throughout the assigned re-test period.The data may show so little degradation and so little variability that it is apparent from looking at them that the requested re-test period will be 
+granted. Under these circumstances it is normally unnecessary to go through 
+the statistical analysis; providing a justiﬁ cation for the omission should be sufﬁ cient.An approach for analysing the data on a quantitative attribute that is expected to change with time is to determine the time at which the 95% one-sided 
+conﬁ dence limit for the mean curve intersects the acceptance criterion. If analysis shows that the batch-to-batch variability is small, it is advantageous 
+to combine the data into one overall estimate. This can be done by ﬁ rst applying appropriate statistical tests (e.g. p values for level of signiﬁ cance of rejection of more than 0.25) to the slopes of the regression lines and zero 
+time intercepts for the individual batches. If it is inappropriate to combine 
+data from several batches, the overall re-test period should be based on 
+the minimum time a batch can be expected to remain within acceptance 
+criteria.The nature of any degradation relationship will determine whether the data should be transformed for linear regression analysis. Usually the 
+relationship can be represented by a linear, quadratic or cubic function on 
+an arithmetic or logarithmic scale. As far as possible, the choice of model 
+should be justiﬁ ed by a physical and/or chemical rationale and should also take into account the amount of available data (parsimony principle to 
+ensure a robust prediction). Statistical methods should be employed to test 
+the goodness of ﬁ t of the data on all batches and combined batches (where appropriate) to the assumed degradation line or curve.Limited extrapolation of the long-term data from the long-term storage condition beyond the observed range to extend the re-test period can be 
+undertaken if justiﬁ ed. This justiﬁ cation should be based on what is known about the mechanism of degradation, the results of testing under accelerated 
+conditions, the goodness of ﬁ t of any mathematical model, batch size and existence of supporting stability data. However, this extrapolation assumes 
+that the same degradation relationship will continue to apply beyond the 
+observed data.95Any evaluation should cover not only the assay but also the levels of degradation products and other appropriate attributes. Where appropriate, 
+attention should be paid to reviewing the adequacy of evaluation linked to 
+FPP stability and degradation “behaviour” during the testing.2.1.10 Statements and labellingA storage statement should be established for display on the label based on 
+the stability evaluation of the API. Where applicable speciﬁ c instructions should be provided, particularly for APIs that cannot tolerate freezing or 
+excursions in temperature. Terms such as “ambient conditions” or “room 
+temperature” should be avoided.The recommended labelling statements for use if supported by the stability studies are provided in Appendix 3.A re-test period should be derived from the stability information, and a re-test date should be displayed on the container label if appropriate.2.1.11 Ongoing stability studiesThe stability of the API should be monitored according to a continuous 
+and appropriate programme that will permit the detection of any stability 
+issue (e.g. changes in levels of degradation products). The purpose of the 
+ongoing stability programme is to monitor the API and to determine that 
+the API remains, and can be expected to remain, within speciﬁ cations under the storage conditions indicated on the label, within the re-test period in all 
+future batches.The ongoing stability programme should be described in a written protocol and the results presented in a formal report.The protocol for an ongoing stability programme should extend to the end of the re-test period and shelf-life and should include, but not be limited to, 
+the following parameters:—number of batch(es) and different batch sizes, if applicable;—relevant physical, chemical, microbiological and biological test 
+methods;—acceptance criteria;—reference to test methods;—description of the container closure system(s);—testing frequency;—description of the conditions of storage (standardized conditions for 
+long-term testing as described in these guidelines, and consistent with 
+the API labelling, should be used); and—other applicable parameters speciﬁ c to the API.96At least one production batch per year of API (unless none is produced during that year) should be added to the stability monitoring programme 
+and tested at least annually to conﬁ rm the stability (12). In certain situations additional batches should be included in the ongoing stability programme. 
+For example, an ongoing stability study should be conducted after any 
+signiﬁ cant change or signiﬁ cant deviation to the synthetic route, process or container closure system which may have an impact upon the stability of 
+the API (13).Out-of-speciﬁ cation results or signiﬁ cant atypical trends should be investigated. Any conﬁ rmed signiﬁ cant change, out-of-speciﬁ cation result, or signiﬁ cant atypical trend should be reported immediately to the relevant ﬁ nished product manufacturer. The possible impact on batches on the market should be 
+considered in consultation with the relevant ﬁ nished product manufacturers and the competent authorities.A summary of all the data generated, including any interim conclusions on 
+the programme, should be written and maintained. This summary should be 
+subjected to periodic review.2.2 Finished pharmaceutical product2.2.1 GeneralThe design of the stability studies for the FPP should be based on knowledge 
+of the behaviour and properties of the API, information from stability 
+studies on the API and on experience gained from preformulation studies 
+and investigational FPPs.2.2.2 Selection of batchesData from stability studies should be provided on at least three primary 
+batches of the FPP. The primary batches should be of the same formulation 
+and packaged in the same container closure system as proposed for marketing. 
+The manufacturing process used for primary batches should simulate that 
+to be applied to production batches and should provide product of the same 
+quality and meeting the same speciﬁ cation as that intended for marketing. In the case of conventional dosage forms with APIs that are known to be 
+stable, data from at least two primary batches should be provided.Two of the three batches should be at least pilot-scale batches and the third one can be smaller, if justiﬁ ed. Where possible, batches of the FPP should be manufactured using different batches of the API(s).Stability studies should be performed on each individual strength, dosage form and container type and size of the FPP unless bracketing or matrixing 
+is applied.972.2.3 Container closure systemStability testing should be conducted on the dosage form packaged in the container closure system proposed for marketing. Any available studies 
+carried out on the FPP outside its immediate container or in other packaging 
+materials can form a useful part of the stress testing of the dosage form or 
+can be considered as supporting information, respectively.2.2.4 Speciﬁ cationStability studies should include testing of those attributes of the FPP that are susceptible to change during storage and are likely to inﬂ uence quality, safety, and/or efﬁ cacy. The testing should cover, as appropriate, the physical, chemical, biological and microbiological attributes, preservative content 
+(e.g. antioxidant or antimicrobial preservative) and functionality tests (e.g. 
+for a dose delivery system). Examples of testing parameters in the stability 
+studies are listed in Appendix 2. Analytical procedures should be fully 
+validated and stability-indicating. Whether and to what extent replication 
+should be performed will depend on the results of validation studies.Shelf-life acceptance criteria should be derived from consideration of all available stability information. It may be appropriate to have justiﬁ able differences between the shelf-life and release acceptance criteria based on 
+the stability evaluation and the changes observed on storage. Any differences 
+between the release and shelf-life acceptance criteria for antimicrobial 
+preservative content should be supported by a validated correlation of 
+chemical content and preservative effectiveness demonstrated during 
+development of the pharmaceutical product with the product in its ﬁ nal formulation (except for preservative concentration) intended for marketing. 
+A single primary stability batch of the FPP should be tested for effectiveness 
+of the antimicrobial preservative (in addition to preservative content) at the 
+proposed shelf-life for veriﬁ cation purposes, regardless of whether there is a difference between the release and shelf-life acceptance criteria for 
+preservative content.2.2.5 Testing frequencyFor long-term studies, frequency of testing should be sufﬁ cient to establish the stability proﬁ le of the FPP.For products with a proposed shelf-life of at least 12 months, the frequency of testing at the long-term storage condition should normally be every 
+three months over the ﬁ rst year, every six months over the second year and annually thereafter throughout the proposed shelf-life.At the accelerated storage condition, a minimum of three time points, including the initial and ﬁ nal time points (e.g. 0, 3 and 6 months), from a six-month study is recommended. Where an expectation (based on 98development experience) exists that results from accelerated testing are likely to approach signiﬁ cant change criteria, testing should be increased either by adding samples at the ﬁ nal time point or by including a fourth time point in the study design.When testing at the intermediate storage condition is called for as a result of signiﬁ cant change at the accelerated storage condition, a minimum of four time points, including the initial and ﬁ nal time points (e.g. 0, 6, 9 and 12 months), from a 12-month study is recommended.Reduced designs, i.e. matrixing or bracketing, where the testing frequency is reduced or certain factor combinations are not tested at all, can be applied 
+if justiﬁ ed (3).2.2.6 Storage conditionsIn general an FPP should be evaluated under storage conditions with speciﬁ ed tolerances that test its thermal stability and, if applicable, its sensitivity to moisture or potential for solvent loss. The storage conditions 
+and the lengths of studies chosen should be sufﬁ cient to cover storage, shipment and subsequent use with due regard to the climatic conditions in 
+which the product is intended to be marketed.Photostability testing, which is an integral part of stress testing, should be conducted on at least one primary batch of the FPP if appropriate. More 
+details can be found in other guidelines (3).The orientation of the product during storage, i.e. upright versus inverted, may need to be included in a protocol where contact of the product with 
+the closure system may be expected to affect the stability of the products 
+contained, or where there has been a change in the container closure 
+system.Storage condition tolerances are usually deﬁ ned as the acceptable variations in temperature and relative humidity of storage facilities for stability studies. 
+The equipment used should be capable of controlling the storage conditions 
+within the ranges deﬁ ned in these guidelines. The storage conditions should be monitored and recorded. Short-term environmental changes due to 
+opening of the doors of the storage facility are accepted as unavoidable. The 
+effect of excursions due to equipment failure should be assessed, addressed 
+and reported if judged to affect stability results. Excursions that exceed the 
+deﬁ ned tolerances for more than 24 hours should be described in the study report and their effects assessed.The long-term testing should cover a minimum of six or 12 months at the time of submission and should be continued for a period of time sufﬁ cient to cover the proposed shelf-life. For an FPP containing an API that is known 
+to be stable and where no signiﬁ cant change is observed in the FPP stability 99studies at accelerated and long-term conditions for at least 6 months data covering a minimum of six months should be submitted.Additional data accumulated during the assessment period of the registration application should be submitted to the authorities if requested. Data from the accelerated storage condition and from the intermediate conditions, where appropriate, can be used to evaluate the effect of short-term excursions 
+outside the label storage conditions (such as might occur during shipping).Long-term, accelerated and, where appropriate, intermediate storage conditions for FPPs are detailed in the sections below. The general case 
+applies if the FPP is not speciﬁ cally covered by a subsequent section (2.1.7.1). Alternative storage conditions can be used if justiﬁ ed.2.2.6.1 General caseStudyStorage conditionMinimum time period covered by data at submissionLong-terma25 °C ± 2 °C/60% RH ± 5% RH or30 °C ± 2 °C/65% RH ± 5% RH or 
+30 °C ± 2 °C/75% RH ± 5% RH 12 months or 6 months as referred to in section 2.2.6Intermediateb30 °C ± 2 °C/65% RH ± 5% RH6 monthsAccelerated40 °C ± 2 °C/75% RH ± 5% RH6 months a Whether long-term stability studies are performed at 25 °C ± 2 °C/60% RH ± 5% RH or 30 °C ± 2 °C/65% RH ± 5% RH or 30 °C ± 2 °C/75% RH ± 5% RH is determined by the climatic zone in which the FPP is intended to be marketed . Testing at a more severe long-term condition can be an alternative to storage at 25 °C/60% RH or 30 °C/65% RH.b If 30 °C ± 2 °C/65% RH ± 5% RH or 30 °C ± 2 °C/75% RH ± 5% RH is the long-term condition, there is no intermediate condition.If long-term studies are conducted at 25 °C ± 2 °C/60% RH ± 5% RH and “signiﬁ cant change” occurs at any time during six months’ testing at the accelerated storage condition, additional testing at the intermediate storage 
+condition should be conducted and evaluated against signiﬁ cant change criteria. In this case the initial application should include a minimum of six 
+months’ data from a 12-month study at the intermediate storage condition.In general “signiﬁ cant change” for an FPP is deﬁ ned as:A change from the initial content of API(s) of 5% or more detected by •assay, or failure to meet the acceptance criteria for potency when using 
+biological or immunological procedures. (Note: Other values may be applied, if justiﬁ ed, to certain products, such as multivitamins and herbal preparations.)
+Any degradation product exceeding its acceptance criterion.•Failure to meet the acceptance criteria for appearance, physical attributes •and functionality test (e.g. colour, phase separation, resuspendability, 100caking, hardness, dose delivery per actuation). However, some changes in physical attributes (e.g. softening of suppositories, melting of creams, 
+partial loss of adhesion for transdermal products) may be expected under 
+accelerated conditions.Also, as appropriate for the dosage form:failure to meet the acceptance criterion for pH;•orfailure to meet the acceptance criteria for dissolution for 12 dosage units.•2.2.6.2 FPPs packaged in impermeable containersParameters required to classify the packaging materials as permeable or impermeable depend on the characteristics of the packaging material, 
+such as thickness and permeability coefﬁ cient. The suitability of the packaging material used for a particular product is determined by its 
+product characteristics. Containers generally considered to be moisture-
+impermeable include glass ampoules.Sensitivity to moisture or potential for solvent loss is not a concern for FPPs packaged in impermeable containers that provide a permanent barrier to 
+passage of moisture or solvent. Thus stability studies for products stored in 
+impermeable containers can be conducted under any controlled or ambient 
+relative humidity condition.2.2.6.3 FPPs packaged in semi-permeable containersAqueous-based products packaged in semi-permeable containers should 
+be evaluated for potential water loss in addition to physical, chemical, 
+biological and microbiological stability. This evaluation can be carried out 
+under conditions of low relative humidity, as discussed below. Ultimately it 
+should be demonstrated that aqueous-based FPPs stored in semi-permeable 
+containers could withstand environments with low relative humidity.Other comparable approaches can be developed and reported for non-aqueous, solvent-based products.StudyStorage conditionMinimum time period covered by data at submissionLong-terma25 °C ± 2 °C/40% RH ± 5% RH or30 °C ± 2 °C/35% RH ± 5% RH12 monthsIntermediate30 °C ± 2 °C/65% RH ± 5% RH6 monthsAccelerated 40 °C ± 2 °C/not more than(NMT) 25% RH6 months a Whether long-term stability studies are performed at 25 °C ± 2 °C/40% RH ± 5% RH or 30 °C ± 2 °C/35% RH ± 5% RH is determined by the climatic condition under which the FPP is intended to be marketed. Testing at 30 °C/35% RH can be an alternative to the storage condition at 25 °C/40% RH.101Products meeting either of the long-term storage conditions and the accelerated conditions, as speciﬁ ed in the table above, have demonstrated the integrity of the packaging in semi-permeable containers. A signiﬁ cant change in water loss alone at the accelerated storage condition does not 
+necessitate testing at the intermediate storage condition. However, data 
+should be provided to demonstrate that the pharmaceutical product would 
+not have signiﬁ cant water loss throughout the proposed shelf-life if stored at 25 °C/40% RH or 30 °C/35% RH.For long-term studies conducted at 25 °C ± 2 °C/40% RH ± 5% RH, that fail the accelerated testing with regard to water loss and any other parameters, 
+additional testing at the “intermediate” storage condition should be 
+performed as described under the general case to evaluate the temperature 
+effect at 30 °C.A 5% loss in water from its initial value is considered a signiﬁ cant change for a product packaged in a semi-permeable container after an equivalent of 
+three months’ storage at 40 °C not more than (NMT) 25% RH. However, for 
+small containers (1 ml or less) or unit-dose products, a water loss of 5% or 
+more after an equivalent of three months’ storage at 40 °C/NMT 25% RH 
+may be appropriate, if justiﬁ ed.An alternative approach to studies at the low relative humidity as recommended in the table above (for either long-term or accelerated 
+testing) is to perform the stability studies under higher relative humidity 
+and deriving the water loss at the low relative humidity through calculation. 
+This can be achieved by experimentally determining the permeation 
+coefﬁ cient for the container closure system or, as shown in the example below, using the calculated ratio of water loss rates between the two 
+humidity conditions at the same temperature. The permeation coefﬁ cient for a container closure system can be experimentally determined by using 
+the worst-case scenario (e.g. the most diluted of a series of concentrations) 
+for the proposed FPP.Example of an approach for determining water lossFor a product in a given container closure system, container size and ﬁ ll, an appropriate approach for deriving the rate of water loss at the low relative 
+humidity is to multiply the rate of water loss measured at an alternative 
+relative humidity at the same temperature, by a water loss rate ratio shown 
+in the table below. A linear water loss rate at the alternative relative humidity 
+over the storage period should be demonstrated.For example, at a given temperature, e.g. 40 °C, the calculated rate of water loss during storage at NMT 25% RH is the rate of water loss measured at 
+75% RH multiplied by 3.0, the corresponding water loss rate ratio.102Low-humiditytesting conditionsAlternativetesting conditionRatio of water loss rates Calculation25 °C/40% RH25 °C/60% RH1.5(100-40)/(100-60)30 °C/35% RH30 °C/65% RH1.9(100-35)/(100-65)
+30 °C/35% RH30 °C/75% RH2.6(100-35)/(100-75)40 °C/NMT 25% RH40 °C/75% RH3.0(100-25)/(100-75)Valid water loss rate ratios at relative humidity conditions other than those shown in the table above can also be used.2.2.6.4 FPPs intended for storage in a refrigeratorStudyStorage conditionMinimum time period covered by data at submissionLong-term5 °C ± 3 °C 12 monthsAccelerateda25 °C ± 2 °C/60% RH ± 5% RH or30 °C ± 2 °C/65% RH ± 5% RH or
+30 °C ± 2 °C/75% RH ± 5% RH6 months a Whether accelerated stability studies are performed at 25 ± 2 °C/60% RH ± 5% RH or 30 °C ± 2 °C/65% RH ± 5% RH or 30 °C ± 2 °C/75% RH ± 5% RH is based on a risk-based evaluation. Testing at a more severe 
+accelerated condition can be an alternative to the storage condition at 25 °C/60% RH or 30 °C/65% RH.If the FPP is packaged in a semi-permeable container, appropriate information should be provided to assess the extent of water loss.Data from refrigerated storage should be assessed according to the evaluation section of these guidelines, except where explicitly noted below.If signiﬁ cant change occurs between three and six months’ testing at the accelerated storage condition, the proposed shelf-life should be based on 
+the data available from the long-term storage condition.If signiﬁ cant change occurs within the ﬁ rst three months’ testing at the accelerated storage condition, a discussion should be provided to address the 
+effect of short-term excursions outside the label storage condition, e.g. during 
+shipment and handling. This discussion can be supported, if appropriate, by 
+further testing on a single batch of the FPP for a period shorter than three 
+months but with more frequent testing than usual. It is considered unnecessary 
+to continue to test a product throughout six months when a signiﬁ cant change has occurred within the ﬁ rst three months of accelerated studies at the speciﬁ c condition chosen in accordance with the risk analysis.1032.2.6.5 FPPs intended for storage in a freezerStudyStorage conditionMinimum time period coveredby data at submissionLong-term–20 °C ± 5 °C12 monthsFor FPPs intended for storage in a freezer, the shelf-life should be based on the long-term data obtained at the long-term storage condition. In the absence of an accelerated storage condition for FPPs intended to be stored 
+in a freezer, testing on a single batch at an elevated temperature (e.g. 5 °C 
+± 3 °C or 25 °C ± 2 °C or 30 °C ± 2 °C) for an appropriate time period 
+should be conducted to address the effect of short-term excursions outside 
+the proposed label storage condition.2.2.6.6 FPPs intended for storage below -20 °CFPPs intended for storage at temperatures below -20 °C should be treated on a case-by-case basis.2.2.7 Stability commitmentWhen the available long-term stability data on primary batches do not cover 
+the proposed shelf-life granted at the time of approval, a commitment should 
+be made to continue the stability studies post-approval to ﬁ rmly establish the shelf-life.Where the submission includes long-term stability data from the production batches as speciﬁ ed in section 2.2.2 covering the proposed shelf-life, a post-approval commitment is considered unnecessary. Otherwise, one of the 
+following commitments should be made:If the submission includes data from stability studies on at least the number •of production batches speciﬁ ed in section 2.2.2, a commitment should be made to continue the long-term studies throughout the proposed shelf-
+life and the accelerated studies for six months.
+If the submission includes data from stability studies on fewer than the •number of production batches speciﬁ ed in section 2.2.2, a commitment should be made to continue the long-term studies throughout the proposed 
+shelf-life and the accelerated studies for six months, and to place 
+additional production batches, to a total of at least three, on long-term 
+stability studies throughout the proposed shelf-life and on accelerated 
+studies for six months.If the submission does not include stability data on production batches, •a commitment should be made to place the ﬁ rst two or three production batches (see section 2.2.2) on long-term stability studies throughout the 
+proposed shelf-life and on accelerated studies for six months.104The stability protocol used for studies on commitment batches should be the same as that for the primary batches, unless otherwise scientiﬁ cally justiﬁ ed.2.2.8 EvaluationA systematic approach should be adopted to the presentation and evaluation of the stability information, which should include, as appropriate, results 
+from the physical, chemical, biological and microbiological tests, including 
+particular attributes of the dosage form (for example, dissolution rate for 
+solid oral dosage forms).The purpose of the stability study is to establish, based on testing a minimum number of batches of the FPP as speciﬁ ed in section 2.2.2, a shelf-life and label storage instructions applicable to all future batches of the FPP 
+manufactured under similar circumstances. The degree of variability of 
+individual batches affects the conﬁ dence that a future production batch will remain within speciﬁ cation throughout its shelf-life.Where the data show so little degradation and so little variability that it is apparent from looking at the data that the requested shelf-life will be 
+granted, it is normally unnecessary to go through the statistical analysis. 
+However, a provisional shelf-life of 24 months may be established provided 
+the following conditions are satisﬁ ed:The API is known to be stable (not easily degradable).•Stability studies, as outlined above in section 2.1.11, have been performed •and no signiﬁ cant changes have been observed.Supporting data indicate that similar formulations have been assigned a •shelf-life of 24 months or more.
+The manufacturer will continue to conduct long-term studies until the •proposed shelf-life has been covered, and the results obtained will be 
+submitted to the national medicines regulatory authority.An approach for analysing the data on a quantitative attribute that is expected 
+to change with time is to determine the time at which the 95% one-sided 
+conﬁ dence limit for the mean curve intersects the acceptance criterion. If analysis shows that the batch-to-batch variability is small, it is advantageous 
+to combine the data into one overall estimate. This can be done by ﬁ rst applying appropriate statistical tests (e.g. p values for level of signiﬁ cance of rejection of more than 0.25) to the slopes of the regression lines and zero time 
+intercepts for the individual batches. If it is inappropriate to combine data 
+from several batches, the overall shelf-life should be based on the minimum 
+time a batch can be expected to remain within acceptance criteria.The nature of any degradation relationship will determine whether the 
+data should be transformed for linear regression analysis. Usually the 105relationship can be represented by a linear, quadratic or cubic function on an arithmetic or logarithmic scale. As far as possible, the choice of model should be justiﬁ ed by a physical and/or chemical rationale and should also take into account the amount of available data (parsimony principle to 
+ensure a robust prediction).Statistical methods should be employed to test the goodness of ﬁ t of the data on all batches and combined batches (where appropriate) to the assumed 
+degradation line or curve.Limited extrapolation of the long-term data from the long-term storage condition beyond the observed range to extend the shelf-life can be 
+undertaken, if justiﬁ ed. This justiﬁ cation should be based on what is known about the mechanism of degradation, the results of testing under accelerated 
+conditions, the goodness of ﬁ t of any mathematical model, batch size and the existence of supporting stability data. However, this extrapolation assumes 
+that the same degradation relationship will continue to apply beyond the 
+observed data.Any evaluation should consider not only the assay but also the degradation products and other appropriate attributes. Where appropriate, attention 
+should be paid to reviewing the adequacy of evaluation linked to FPP 
+stability and degradation “behaviour” during the testing.2.2.9 Statements and labellingA storage statement should be established for the label based on the stability 
+evaluation of the FPP. Where applicable, speciﬁ c instructions should be provided, particularly for FPPs that cannot tolerate freezing. Terms such as 
+“ambient conditions” or “room temperature” must be avoided.There should be a direct link between the storage statement on the label and the demonstrated stability of the FPP. An expiry date should be displayed 
+on the container label.The recommended labelling statements for use, if supported by the stability studies, are provided in Appendix 3.In principle, FPPs should be packed in containers that ensure stability and protect the FPP from deterioration. A storage statement should not be used 
+to compensate for inadequate or inferior packaging. Additional labelling 
+statements could be used in cases where the results of the stability testing 
+demonstrate limiting factors (see also Appendix 3).2.2.10 In-use stabilityThe purpose of in-use stability testing is to provide information for the 
+labelling on the preparation, storage conditions and utilization period of 106multidose products after opening, reconstitution or dilution of a solution, e.g. an antibiotic injection supplied as a powder for reconstitution.As far as possible the test should be designed to simulate the use of the FPP in practice, taking into consideration the ﬁ lling volume of the container and any dilution or reconstitution before use. At intervals comparable to those 
+which occur in practice appropriate quantities should be removed by the 
+withdrawal methods normally used and described in the product literature.The physical, chemical and microbial properties of the FPP susceptible to 
+change during storage should be determined over the period of the proposed 
+in-use shelf-life. If possible, testing should be performed at intermediate time 
+points and at the end of the proposed in-use shelf-life on the ﬁ nal amount of the FPP remaining in the container. Speciﬁ c parameters, e.g. for liquids and semi-solids, preservatives, per content and effectiveness, need to be studied.A minimum of two batches, at least pilot-scale batches, should be subjected 
+to the test. At least one of these batches should be chosen towards the end 
+of its shelf-life. If such results are not available, one batch should be tested 
+at the ﬁ nal point of the submitted stability studies.This testing should be performed on the reconstituted or diluted FPP throughout the proposed in-use period on primary batches as part of the 
+stability studies at the initial and ﬁ nal time points and, if full shelf-life, long-term data are not available before submission, at 12 months or the last 
+time point at which data will be available.In general this testing need not be repeated on commitment batches (see 2.2.10).2.2.11 VariationsOnce the FPP has been registered, additional stability studies are required 
+whenever variations that may affect the stability of the API or FPP are made, 
+such as major variations (13).The following are examples of such changes:—change in the manufacturing process;—change in the composition of the FPP;—change of the immediate packaging;—change in the manufacturing process of an API.In all cases of variations, the applicant should investigate whether the intended change will or will not have an impact on the quality characteristics 
+of APIs and/or FPPs and consequently on their stability.The scope and design of the stability studies for variations and changes are based on the knowledge and experience acquired on APIs and FPPs.107The results of these stability studies should be communicated to the regulatory authorities concerned (14).2.2.12 Ongoing stability studiesAfter a marketing authorization has been granted, the stability of the FPP should be monitored according to a continuous appropriate programme 
+that will permit the detection of any stability issue (e.g. changes in levels 
+of impurities or dissolution proﬁ le) associated with the formulation in the container closure system in which it is marketed. The purpose of the 
+ongoing stability programme is to monitor the product over its shelf-life 
+and to determine that the product remains, and can be expected to remain, 
+within speciﬁ cations under the storage conditions on the label.This mainly applies to the FPP in the container closure system in which it is supplied, but consideration should also be given to inclusion in the programme 
+of bulk products. For example, when the bulk product is stored for a long period 
+before being packaged and/or shipped from a manufacturing site to a packaging 
+site, the impact on the stability of the packaged product should be evaluated 
+and studied. Generally this would form part of development studies, but where 
+this need has not been foreseen, inclusion of a one-off study in the ongoing 
+stability programme could provide the necessary data. Similar considerations 
+could apply to intermediates that are stored and used over prolonged periods.The ongoing stability programme should be described in a written protocol 
+and results formalized as a report.The protocol for an ongoing stability programme should extend to the end of the shelf-life period and should include, but not be limited to, the 
+following parameters:—number of batch(es) per strength and different batch sizes, if applicable. 
+The batch size should be recorded, if different batch sizes are employed;—relevant physical, chemical, microbiological and biological test 
+methods;—acceptance criteria;—reference to test methods;—description of the container closure system(s);—testing frequency;—description of the conditions of storage (standardized conditions for 
+long-term testing as described in these guidelines, and consistent with 
+the product labelling, should be used); and—other applicable parameters speciﬁ c to the FPP.The protocol for the ongoing stability programme can be different from that of the initial long-term stability study as submitted in the marketing 
+authorization dossier provided that this is justiﬁ ed and documented in the 108protocol (for example, the frequency of testing, or when updating to meet revised recommendations).The number of batches and frequency of testing should provide sufﬁ cient data to allow for trend analysis. Unless otherwise justiﬁ ed, at least one batch per year of product manufactured in every strength and every primary packaging 
+type, if relevant, should be included in the stability programme (unless none 
+is produced during that year). The principle of bracketing and matrixing 
+designs may be applied if scientiﬁ cally justiﬁ ed in the protocol (15).In certain situations additional batches should be included in the ongoing stability programme. For example, an ongoing stability study should be 
+conducted after any signiﬁ cant change or signiﬁ cant deviation to the process or container closure system. Any reworking, reprocessing or recovery 
+operation should also be considered for inclusion (13).Out-of-speciﬁ cation results or signiﬁ cant atypical trends should be investigated. Any conﬁ rmed signiﬁ cant change, out-of-speciﬁ cation result, or signiﬁ cant atypical trend should be reported immediately to the relevant competent authorities. The possible impact on batches on the market should 
+be considered in consultation with the relevant competent authorities.A summary of all the data generated, including any interim conclusions on the programme, should be written and maintained. This summary should be 
+subjected to periodic review.3. GlossaryThe deﬁ nitions provided below apply to the words and phrases used in these guidelines. Although an effort has been made to use standard deﬁ nitions as far as possible, they may have different meanings in other contexts and 
+documents. The following deﬁ nitions are provided to facilitate interpretation of the guidelines. The deﬁ nitions are consistent with those published in other WHO quality assurance guidelines. The Quality Assurance of Medicines 
+Terminology Database was established in August 2005 and includes the 
+deﬁ nitions of terms related to quality assurance of medicines. This database is intended to help harmonize terminology and to avoid misunderstandings that 
+may result from the different terms and their interpretations used in various 
+WHO publications. The main publications used as a source of information 
+to create the Quality Assurance of Medicines Terminology Database are the 
+quality assurance guidelines included in the 36th–42nd reports of the WHO 
+Expert Committee on Speciﬁ cations for Pharmaceutical Preparations.accelerated testingStudies designed to increase the rate of chemical degradation and physical change of an API or FPP by using exaggerated storage conditions as part of 109the stability testing programme. The data thus obtained, in addition to those derived from long-term stability studies, may be used to assess longer-
+term chemical effects under non-accelerated conditions and to evaluate the 
+impact of short-term excursions outside the label storage conditions, as might occur during shipping. The results of accelerated testing studies are not always predictive of physical changes.active pharmaceutical ingredient (API)Any substance or mixture of substances intended to be used in the 
+manufacture of a pharmaceutical dosage form and that, when so used, 
+becomes an active ingredient of that pharmaceutical dosage form. Such 
+substances are intended to furnish pharmacological activity or other direct 
+effect in the diagnosis, cure, mitigation, treatment, or prevention of disease or to affect the structure and function of the body.batchA deﬁ ned quantity of starting material, packaging material or ﬁ nished pharmaceutical product (FPP) processed in a single process or series of 
+processes so that it is expected to be homogeneous. It may sometimes be 
+necessary to divide a batch into a number of sub-batches, which are later 
+brought together to form a ﬁ nal homogeneous batch. In the case of terminal sterilization, the batch size is determined by the capacity of the autoclave. 
+In continuous manufacture, the batch must correspond to a deﬁ ned fraction of the production, characterized by its intended homogeneity. The batch 
+size can be deﬁ ned either as a ﬁ xed quantity or as the amount produced in a ﬁ xed time interval.bracketingThe design of a stability schedule such that only samples at the extremes of certain design factors, e.g. strength and package size, are tested at all 
+time points as in a full design. The design assumes that the stability of any 
+intermediate levels is represented by the stability of the extremes tested. 
+Where a range of strengths is to be tested, bracketing is applicable if the 
+strengths are identical or very closely related in composition (e.g. for a 
+tablet range made with different compression weights of a similar basic 
+granulation, or a capsule range made by ﬁ lling different plug ﬁ ll weights of the same basic composition into different size capsule shells). Bracketing 
+can be applied to different container sizes or different ﬁ lls in the same container closure system.climatic zoneThe zones into which the world is divided based on the prevailing annual 
+climatic conditions (see Appendix 1).110commitment batchesProduction batches of an API or FPP for which the stability studies are initiated or completed post-approval through a commitment made in a 
+regulatory application.container closure systemThe sum of packaging components that together contains and protects the 
+dosage form. This includes primary packaging components and secondary 
+packaging components, if the latter are intended to provide additional 
+protection to the FPP. A packaging system is equivalent to a container 
+closure system.dosage formThe form of the FPP, e.g. tablet, capsule, elixir or suppository.excipientA substance or compound, other than the API and packaging materials, that 
+is intended or designated to be used in the manufacture of a FPP.expiry dateThe date given on the individual container (usually on the label) of a product 
+up to and including which the API and FPP are expected to remain within speciﬁ cations, if stored correctly. It is established for each batch by adding the shelf-life to the date of manufacture.ﬁ nished pharmaceutical product (FPP)A product that has undergone all stages of production, including packaging 
+in its ﬁ nal container and labelling. An FPP may contain one or more APIs.impermeable containersContainers that provide a permanent barrier to the passage of gases or solvents, e.g. sealed aluminium tubes for semisolids, sealed glass ampoules 
+for solutions and aluminium/aluminium blisters for solid dosage forms.in useSeeUtilization periodlong-term stability studiesExperiments on the physical, chemical, biological, biopharmaceutical and microbiological characteristics of an API or FPP, during and beyond 
+the expected shelf-life and storage periods of samples under the storage 
+conditions expected in the intended market. The results are used to establish 
+the re-test period or the shelf-life, to conﬁ rm the projected re-test period and shelf-life, and to recommend storage conditions.111matrixingThe design of a stability schedule such that a selected subset of the total number of possible samples for all factor combinations is tested at a 
+speciﬁ ed time point. At a subsequent time point, another subset of samples for all factor combinations is tested. The design assumes that the stability 
+of each subset of samples tested represents the stability of all samples at a 
+given time point. The differences in the samples for the same FPP should 
+be identiﬁ ed as, for example, covering different batches, different strengths, different sizes of the same container closure system, and, possibly in some 
+cases, different container closure systems.ongoing stability studyThe study carried out by the manufacturer on production batches according 
+to a predetermined schedule in order to monitor, conﬁ rm and extend the projected re-test period (or shelf-life) of the API, or conﬁ rm or extend the shelf-life of the FPP.pilot-scale batchA batch of an API or FPP manufactured by a procedure fully representative of and simulating that to be applied to a full production-scale batch. 
+For example, for solid oral dosage forms, a pilot scale is generally, at a 
+minimum, one-tenth that of a full production scale or 100 000 tablets or capsules, whichever is the larger; unless otherwise adequately justiﬁ ed.primary batchA batch of an API or FPP used in a stability study, from which stability data are submitted in a registration application for the purpose of establishing a 
+re-test period or shelf-life, as the case may be. A primary batch of an API 
+should be at least a pilot-scale batch. For an FPP, two of the three batches 
+should be at least pilot-scale batches, and the third batch can be smaller if it 
+is representative with regard to the critical manufacturing steps. However, a primary batch may be a production batch.production batchA batch of an API or FPP manufactured at production scale by using production 
+equipment in a production facility as speciﬁ ed in the application.provisional shelf-lifeA provisional expiry date which is based on acceptable accelerated and available long-term data for theFPP to be marketed in the proposed 
+container closure system.release speciﬁ cationThe combination of physical, chemical, biological, and microbiological 
+tests and acceptance criteria that determine the suitability of an API or FPP 
+at the time of its release.112re-test dateThe date after which an active API should be re-examined to ensure that the material is still in compliance with the speciﬁ cation and thus is still suitable for use in the manufacture of an FPP.re-test periodThe period of time during which the API is expected to remain within its 
+speciﬁ cation and, therefore, can be used in the manufacture of a given FPP, provided that the API has been stored under the deﬁ ned conditions. After this period a batch of API destined for use in the manufacture of an FPP 
+should be re-tested for compliance with the speciﬁ cation and then used immediately. A batch of API can be re-tested multiple times and a different 
+portion of the batch used after each re-test, as long as it continues to comply 
+with the speciﬁ cation. For most substances known to be labile, it is more appropriate to establish a shelf-life than a re-test period. The same may be 
+true for certain antibiotics.semi-permeable containersContainers that allow the passage of solvent, usually water, while preventing 
+solute loss. The mechanism for solvent transport occurs by adsorption into 
+one container surface, diffusion through the bulk of the container material, 
+and desorption from the other surface. Transport is driven by a partial-
+pressure gradient. Examples of semi-permeable containers include plastic 
+bags and semi-rigid, low-density polyethylene (LDPE) pouches for large 
+volume parenterals (LVPs), and LDPE ampoules, bottles and vials.shelf-lifeThe period of time during which an API or FPP, if stored correctly, is 
+expected to comply with the speciﬁ cation as determined by stability studies on a number of batches of the API or FPP. The shelf-life is used to establish 
+the expiry date of each batch.shelf-life speciﬁ cationThe combination of physical, chemical, biological, and microbiological 
+tests and acceptance criteria that an FPP should meet throughout its shelf-
+life. In certain exceptional cases an unstable API might have a shelf-life 
+speciﬁ cation (see section 1.3).signiﬁ cant change(See section 2.2.6.1.)In general “signiﬁ cant change” for an FPP is deﬁ ned as:1. A 5% or more change in assay from its initial content of API(s), or failure to meet the acceptance criteria for potency when using biological 
+or immunological procedures. (Note:other values may be applied, 113if justiﬁ ed, to certain products, such as multivitamins and herbal preparations.)2. Any degradation product exceeding its acceptance criterion.
+3. Failure to meet the acceptance criteria for appearance, physical attributes and functionality test (e.g. colour, phase separation, resuspendability, 
+caking, hardness, dose delivery per actuation). However, some changes 
+in physical attributes (e.g. softening of suppositories, melting of creams 
+or partial loss of adhesion for transdermal products) may be expected 
+under accelerated conditions.Also, as appropriate for the dosage form:
+4. Failure to meet the acceptance criterion for pH.
+Or
+5. Failure to meet the acceptance criteria for dissolution for 12 dosage units.speciﬁ cationA list of tests, references to analytical procedures, and appropriate 
+acceptance criteria, which are numerical limits, ranges or other criteria for 
+the tests described. It establishes the set of criteria to which an API or FPP 
+should conform to be considered acceptable for its intended use.stability indicating methodsValidated analytical procedures that can detect the changes with time in the 
+chemical, physical or microbiological properties of the API or FPP, and that 
+are speciﬁ c so that the content of the API, degradation products, and other components of interest can be accurately measured without interference.stability studies (stability testing)Long-term and accelerated (and intermediate) studies undertaken on 
+primary and/or commitment batches according to a prescribed stability 
+protocol to establish or conﬁ rm the re-test period (or shelf-life) of an API or the shelf-life of an FPP.stress testing (of the API)Studies undertaken to elucidate the intrinsic stability of API. Such testing 
+is part of the development strategy and is normally carried out under more 
+severe conditions than those used for accelerated testing.stress testing (of the FPP)Studies undertaken to assess the effect of severe conditions on the FPP. 
+Such studies include photostability testing and speciﬁ c testing on certain products (e.g. metered dose inhalers, creams, emulsions, refrigerated 
+aqueous liquid products).114supporting stability dataSupplementary data, such as stability data on small-scale batches, related formulations, and products presented in containers not necessarily the 
+same as those proposed for marketing, and scientiﬁ c rationales that support the analytical procedures, the proposed re-test period or the shelf-life and storage conditions.utilization periodA period of time during which a reconstituted preparation of the ﬁ nished dosage form in an unopened multidose container can be used.References 1. Guidelines for stability testing of pharmaceutical products containing well established drug substances in conventional dosage forms. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Thirty-fourth report. Geneva, World Health Organization, 1996, Annex 5 (WHO Technical Report Series, No. 863). These guidelines were revised at the thirty-seventh and fortieth meetings of the WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Thirty-seventh report. Geneva, World Health Organization, 2003 (WHO Technical Report Series, No. 908), p. 13 and WHOExpert Committee on Speciﬁ cations for Pharmaceutical Preparations. Fortieth report. Geneva, World Health Organization, 2006 (WHO Technical Report Series, No. 937), p. 12. 2. Regional Guidelines on stability testing of active substances and pharmaceutical products for the WHO Eastern Mediterranean Region.August 2006 (http://www.emro.who.int/edb/media/pdf/EMRC5312En.pdf). 3. The following ICH Guidelines may be consulted in the context of stability testing: International Conference on Harmonisation. ICH Q1A (R2): Stability testing of new drug substances and products (http://www.ich.org/LOB/media/MEDIA419.pdf). International Conference on Harmonisation. ICH Q1B: Photostability testing of new drug substances and products (http://www.ich.org/LOB/media/MEDIA412.pdf). International Conference on Harmonisation.ICH Q1C: Stability testing of new dosage forms (http://www.ich.org/LOB/media/MEDIA413.pdf). International Conference on Harmonisation. ICH Q1D: Bracketing and matrixing designs for stability testing of new drug substances and products 
+(http://www.ich.org/LOB/media/MEDIA414.pdf). International Conference on Harmonisation. ICH Q1E: Evaluation for stability data(http://www.ich.org/LOB/media/MEDIA415.pdf). International Conference on Harmonisation. ICH Q2R1): Validation of analytical procedures: text and methodology (http://www.ich.org/LOB/media/MEDIA417.pdf).115 International Conference on Harmonisation. ICH Q3A: Impurities in new drug substances(http://www.ich.org/LOB/media/MEDIA422.pdf). International Conference on Harmonisation. ICH Q3B: Impurities in new drug products (http://www.ich.org/LOB/media/MEDIA421.pdf). International Conference on Harmonisation. ICH Q5C: Stability testing of biotechnological/biological products (http://www.ich.org/LOB/media/MEDIA427.pdf).International Conference on Harmonisation. ICH Q6A: Speciﬁ cations: Test procedures and acceptance criteria for new drug substances and new drug products: Chemical substances (http://www.ich.org/LOB/media/MEDIA430.pdf). International Conference on Harmonisation.ICH Q6B: Speciﬁ cations: Test procedures and acceptance criteria for biotechnological/biological products (http://www.ich.org/LOB/media/MEDIA432.pdf). Further information can be found on the ICH homepage:http://www.ich.org/cache/compo/276-254-1.html. 4. Guidelines on active pharmaceutical ingredient master ﬁ le procedure. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Forty-second report. Geneva, World Health Organization, 2008, Annex 4 (WHO Technical Report Series, No. 948). 5.WHO guidelines for stability evaluation of vaccines. In:WHO Expert Committee on Biological Standardization.Fifty-seventh report. Geneva, World Health Organization (WHO Technical Report Series, (in press)) 
+(http://www.who.int/biologicals/publications/trs/areas/vaccines/stability/en/
+index.html). 6. Schumacher P. 1972. Über eine für die Haltbarkeit von Arzneimitteln maßgebliche Klimaeinteilung [The impact of climate classiﬁ cation on the stability of medicines]. Die Pharmazeutische Industrie, 34:481–483. 7. Grimm W. 1986. Storage conditions for stability testing (Part 2). Drugs Made in Germany, 29:39–47. 8. Grimm W. 1998. Extension of the International Conference on Harmonisation Tripartite Guidelines for stability testing of new drug substances and products to countries of Climatic Zones III and IV. Drug Development and Industrial Pharmacy, 24:313-325. 9. Zahn M. et al. 2006. A risk-based approach to establish stability testing conditions for tropical countries. Journal of Pharmaceutical Sciences,95:946–965. Erratum: Journal of Pharmaceutical Sciences, 2007, 96:2177.10. Guidelines for registration of ﬁ xed-dose combination medicinal products. Appendix 3: Pharmaceutical development (or preformulation) studies. 
+Table A1: Typical stress conditions in preformulation stability studies. In: 
+WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. 
+Thirty-ninth report. Geneva, World Health Organization, 2005, Annex 5 (WHO Technical Report Series, No. 929).11.Supplementary guidelines on good manufacturing practices: validation. In:Quality assurance of pharmaceuticals. A compendium of guidelines and related materials. Volume 2,2nd updated edition. Good manufacturing practices and inspection. Geneva, World Health Organization, 2007, Chapter 1.11612. WHO good manufacturing practices: main principles for pharmaceutical products. In: Quality assurance of pharmaceuticals. A compendium of guidelines and related materials. Volume 2,2nd updated edition. Good manufacturing practices and inspection. Geneva, World Health Organization, 2007, Chapter 1.13. Guidance on variations to a prequaliﬁ ed product dossier. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Forty-ﬁ rst 
+report. Geneva, World Health Organization, 2007, Annex 6 (WHO Technical Report Series, No. 943).14.Prequaliﬁ cation Programme – Priority Essential Medicines. A United Nations Programme managed by WHO. Information for applicants
+(http://mednet3.who.int/prequal/).15.ASEAN Guideline on stability study of drug product, 9th ACCSQ-PPWG Meeting, Philippines, 21–24 February 2005, version 22 February 2005. Additional readingAccelerated stability studies of widely used pharmaceutical substances under simulated tropical conditions. Geneva, World Health Organization, 1986 (WHO/PHARM/86.529).117 Appendix 1 Long-term stability testing conditions as identiﬁ ed by WHO Member States1In order to be able to reduce the amount of stability testing required, the number of different long-term testing conditions must be reduced to a sufﬁ cient extent. This approach was proposed by Paul Schumacher in 1972(1) and by Wolfgang Grimm in 1986(2), and in 1998(3) when they deﬁ ned four different long-term testing conditions, which match with the climatic conditions of the target markets categorized in just four different 
+climatic zones. This concept is described in regulatory guidelines and 
+pharmacopoeias and has become an established standard in developing 
+ﬁ nished pharmaceutical products (FPPs).At the fortieth meeting of the WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations held in Geneva in October 2005(4), it was recommended to split the current Climatic Zone IV (hot and humid) into 
+two zones: Climatic Zone IVA – for which 30 °C/65% RH will remain the 
+standard long-term testing condition – and Climatic Zone IVB for which, if 
+justiﬁ ed, 30 °C/75% RH will become the long-term testing condition. The criteriaand long-term testing conditions proposed are listed in Table 1.Table 1Proposed criteriaand long-term testing conditionsClimaticzoneDeﬁ nitionCriteriaMean annual temperature 
+measured in the open air/
+mean annual partial water 
+vapour pressureLong-termtesting conditionsITemperateclimate 15 °C /  11 hPa21 °C / 45% RHIISubtropical and Mediterranean
+climate> 15 to 22 °C / > 11 to 18 hPa25 °C / 60% RHIIIHot and dryclimate> 22 °C / 15 hPa30 °C / 35% RHIVAHot and humidclimate> 22 °C / > 15 to 27 hPa30 °C / 65% RHIVBHot and very humid climate> 22 °C / > 27 hPa30 °C / 75% RH1 Any corrections or amendments should be addressed to the Medicines Quality Assurance Programme, Essential Medicines and Pharmaceutical Policies, World Health Organization, 
+Avenue Appia, CH-1211 Geneva 27, Switzerland, for the attention of Dr S. Kopp.118Additional testing conditions, i.e. accelerated and – if applicable – intermediate conditions have to be used as described in these guidelines.Selection of the conditions for stability testing is based on a risk analysis. Testing at a more severe long-term condition can be an alternative to storage 
+testing at 25 °C/60% RH or 30 °C/65% RH.The evaluation of the climatic conditions by each WHO Member State resulted in the recommended storage condition for long-term stability studies 
+shown in Table 2 (in some of the countries listed, more extreme conditions 
+are also accepted). The list is grouped by WHO regional ofﬁ ces.Table 2Stability conditions for WHO Member States by RegionMember StateStability conditionsConﬁ rmed long-term testing conditionRegional Ofﬁ ce for Africa (AFRO)Algeria[25 °C/60% RH]3Angola[30 °C/65% RH]3Benin[30 °C/65% RH]3Botswana[25 °C/60% RH]3Burkina Faso30 °C/60% RH2Burundi[30 °C/65% RH]3Cameroon30 °C/75% RH2Cape Verde[30 °C/65% RH]3Central African Republic30 °C/75% RH2Chad[30 °C/65% RH]3Comoros[30 °C/65% RH]3Congo[30 °C/65% RH]3Côte d’Ivoire[30 °C/65% RH]3Democratic Republic of the Congo[30 °C/65% RH]3Equatorial Guinea[30 °C/65% RH]3Eritrea[30 °C/65% RH]3Ethiopia[30 °C/65% RH]3Gabon[30 °C/65% RH]3Gambia30 °C/65% RH1Ghana30 °C/75% RH2Guinea[30 °C/65% RH]3Guinea-Bissau[30 °C/65% RH]3Kenya[30 °C/65% RH]3Lesotho30 °C/75% RH2Liberia[30 °C/65% RH]3Madagascar30 °C/65% RH1Malawi25 °C/60% RH2Mali[30 °C/65% RH]3119Member StateStability conditionsConﬁ rmed long-term testing conditionMauritania[30 °C/65% RH]3Mauritius[30 °C/65% RH]3Mozambique30 °C/75% RH2Namibia30 °C/65% RH1Niger[30 °C/65% RH]3Nigeria30 °C/75% RH2Rwanda[30 °C/65% RH]3Sao Tome and Principe30 °C/75% RH2Senegal[30 °C/65% RH]3Seychelles[30 °C/65% RH]3Sierra Leone30 °C/75% RH2South Africa30 °C/65% RH1Swaziland[25 °C/60% RH]3Togo30 °C/75% RH2Uganda30 °C/65% RH1United Republic of Tanzania30 °C/75% RH2Zambia25 °C/60% or 30 °C/65% RH1Zimbabwe30 °C/75% RH2Regional Ofﬁ ce for the Americas (AMRO)Antigua and Barbuda[30 °C/75% RH]3Argentina25 °C/60% RH2Bahamas[30 °C/65% RH]3Barbados30 °C/75% RH2Belize[30 °C/65% RH]3Bolivia[30 °C/70% RH or 30 °C/75% RH]3Brazil30 °C/75% RH1Canada30 °C/65% RH1Chile30 °C/65% RH2Colombia[30 °C/75% RH]3Costa Rica30 °C/65% RH2Cuba30 °C/75% RH2Dominica[30 °C/65% RH]3Dominican Republic[30 °C/65% RH]3Ecuador[30 °C/65% RH]3El Salvador[30 °C/65% RH]3Grenada[30 °C/65% RH]3Guatemala[30 °C/65% RH]3Guyana[30 °C/70% RH or30 °C/75% RH]3Haiti[30 °C/65% RH]3Honduras[30 °C/65% RH]3Jamaica[30 °C/65% RH]3Mexico[25 °C/60% RH]3120Member StateStability conditionsConﬁ rmed long-term testing conditionNicaragua[30 °C/65% RH]3Panama[30 °C/75% RH]3Paraguay[30 °C/65% RH]3Peru30 °C/75% RH1Saint Kitts and Nevis[30 °C/65% RH]3Saint Lucia30 °C/75% RH2Saint Vincent and the Grenadines[30 °C/75% RH]3Suriname[30 °C/70% RH or30 °C/75% RH]3Trinidad and Tobago[30 °C/65% RH]3United States of America25 °C/60% or 30 °C/65% RH1Uruguay[25 °C/60% RH]3Venezuela (Bolivarian Republic of)[30 °C/70% RH or30 °C/75% RH]3Regional Ofﬁ ce for the Eastern Mediterranean (EMRO)Afghanistan30 °C/65% RH1Bahrain30 °C/65% RH1Djibouti30 °C/65% RH1Egypt30 °C/65% RH1Iran (Islamic Republic of)30 °C/65% RH1Iraq30 °C/35% RH1Jordan30 °C/65% RH1Kuwait30 °C/65% RH1Lebanon25 °C/60% RH1Libyan Arab Jamahiriya25 °C/60% RH1Morocco25 °C/60% RH1Oman30 °C/65% RH1Pakistan30 °C/65% RH1Qatar30 °C/65% RH1Saudi Arabia30 °C/65% RH1Somalia30 °C/65% RH1Sudan30 °C/65% RH1Syrian Arab Republic25 °C/60% RH1Tunisia25 °C/60% RH1United Arab Emirates30 °C/65% RH1Yemen30 °C/65% RH1Regional Ofﬁ ce for Europe (EURO)Albania[25 °C/60% RH]3Andorra[25 °C/60% RH]3Armenia[25 °C/60% RH]3Austria25 °C/60% or 30 °C/65% RH1Azerbaijan30 °C/65% RH2121Member StateStability conditionsConﬁ rmed long-term testing conditionBelarus[25 °C/60% RH]3Belgium25 °C/60% or 30 °C/65% RH1Bosnia and Herzegovina[25 °C/60% RH]3Bulgaria25 °C/60% or 30 °C/65% RH1Croatia[25 °C/60% RH]3Cyprus25 °C/60% or 30 °C/65% RH1Czech Republic25 °C/60% or 30 °C/65% RH1Denmark25 °C/60% or 30 °C/65% RH1Estonia25 °C/60% or 30 °C/65% RH1Finland25 °C/60% or 30 °C/65% RH1France25 °C/60% or 30 °C/65% RH1Georgia[25 °C/60% RH]3Germany25 °C/60% or 30 °C/65% RH1Greece25 °C/60% or 30 °C/65% RH1Hungary25 °C/60% or 30 °C/65% RH1Iceland[25 °C/60% RH]3Ireland25 °C/60% or 30 °C/65% RH1Israel30 °C/70% or 30 °C/75% RH2Italy25 °C/60% or 30 °C/65% RH1Kazakhstan[25 °C/60% RH]3Kyrgyzstan[25 °C/60% RH]3Latvia25 °C/60% or 30 °C/65% RH1Lithuania25 °C/60% or 30 °C/65% RH1Luxembourg25 °C/60% or 30 °C/65% RH1Malta25 °C/60% or 30 °C/65% RH1Monaco25 °C/60% or 30 °C/65% RH2Montenegro[25 °C/60% RH]3Netherlands25 °C/60% or 30 °C/65% RH1Norway[25 °C/60% RH]3Poland25 °C/60% or 30 °C/65% RH1Portugal25 °C/60% or 30 °C/65% RH1Republic of Moldova[25 °C/60% RH]3Romania25 °C/60% or 30 °C/65% RH1Russian Federation[25 °C/60% RH]3San Marino[25 °C/60% RH]3Serbia [25 °C/60% RH]3Slovakia25 °C/60% or 30 °C/65% RH1Slovenia25 °C/60% or 30 °C/65% RH1Spain25 °C/60% or 30 °C/65% RH1Sweden25 °C/60% or 30 °C/65% RH1Switzerland25 °C/60% or 30 °C/65% RH1122Member StateStability conditionsConﬁ rmed long-term testing conditionTajikistan[25 °C/60% RH]3The former Yugoslav Republic of Macedonia25 °C/60% or 30 °C/65% RH2Turkey[25 °C/60% RH]3Turkmenistan[25 °C/60% RH]3Ukraine[25 °C/60% RH]3United Kingdom25 °C/60% or 30 °C/65% RH1Uzbekistan[25 °C/60% RH]3Regional Ofﬁ ce for South-East Asia (SEARO)Bangladesh[30 °C/65% RH]3Bhutan30 °C/65% RH2Democratic People’s Republic of Korea[25 °C/60% RH]3India30 °C/70% RH1Indonesia30 °C/75% RH1Maldives[30 °C/65% RH]3Myanmar30 °C/75% RH1Nepal30 °C/75% RH2Sri Lanka[30 °C/65% RH]3Thailand30 °C/75% RH1Timor-Leste[30 °C/65% RH]3Regional Ofﬁ ce for the Western Paciﬁ c (WPRO)Australia25 °C/60% or 30 °C/65% RH2Brunei Darussalam30 °C/75% RH1Cambodia30 °C/75% RH1China[30 °C/65% RH]3Cook Islands[30 °C/65% RH]3Fiji[30 °C/65% RH]3Japan25 °C/60% or 30 °C/65% RH1Kiribati[30 °C/65% RH]3Lao People’s Democratic Republic30 °C/75% RH1Malaysia30 °C/75% RH1Marshall Islands[30 °C/65% RH]3Micronesia (Federated States of)[30 °C/65% RH]3Mongolia[25 °C/60% RH]3Nauru[30 °C/65% RH]3New Zealand25 °C/60% or 30 °C/65% RH2Niue[30 °C/65% RH]3Palau[30 °C/65% RH]3Papua New Guinea[30 °C/65% RH]3Philippines30 °C/75% RH1Republic of Korea25 °C/60% or 30 °C/65% RH2123Member StateStability conditionsConﬁ rmed long-term testing conditionSamoa[30 °C/65% RH]3Singapore30 °C/75% RH1Solomon Islands[30 °C/65% RH]3Tonga[30 °C/65% RH]3Tuvalu[30 °C/65% RH]3Vanuatu[30 °C/65% RH]3Viet Nam30 °C/75% RH11Information obtained through respective regional harmonization groups (e.g. ASEAN, ICH and GCC) and from ofﬁ cial communications from national medicines regulatory authorities to WHO (entries in bold type).2Information collated during the 13th International Conference of Drug Regulatory Authorities (ICDRA), 16–18 
+September 2008, held in Bern, Switzerland, from representatives of national medicines regulatory authorities 
+(entries in normal type).3Information provided by the International Federation of Pharmaceutical Manufacturers and Associations 
+(IFPMA) [entries in italic type] based on the following references:
+Ahrens CD. 2001. Essentials of meteorology 3rd ed. Belmont, CA, Thomson Books/Cole, p. 433.Kottek M, et al.2006. World Map of Köppen-Geiger Climate Classiﬁ cation updated. Meteorologische Zeitschrift,15:259–263.
+Zahn M. et al. 2006. A risk-based approach to establish stability testing conditions for tropical countries. Journal of Pharmaceutical Sciences, 95:946–965. Erratum Journal of Pharmaceutical Sciences, 2007, 96:2177.Zahn M. 2008. Global stability practices. In: Huynh-Ba, Kim ed. Handbook of stability testing in pharmaceutical development, New York, Springer.References 1. Schumacher P. 1972, Über eine für die Haltbarkeit von Arzneimitteln maßgebliche Klimaeinteilung [The impact of climate classiﬁ cation on the 
+stability of medicines]. Die Pharmazeutische Industrie, 34:481–483. 2. Grimm W. 1986, Storage conditions for stability testing (Part 2). Drugs Made in Germany, 29:39–47. 3. Grimm W. 1998. Extension of the International Conference on Harmonisation Tripartite Guidelines for stability testing of new drug substances and products 
+to countries of Climatic Zones III and IV. Drug Development and Industrial Pharmacy, 24:313-325. 4. Guidelines for stability testing of pharmaceutical products containing well established drug substances in conventional dosage forms. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Thirty-fourth 
+report. Geneva, World Health Organization, 1996, Annex 5 (WHO Technical Report Series, No. 863). These guidelines were revised at the thirty-seventh and fortieth meetings of the WHO Expert Committee on Speciﬁ cations for Pharmaceutical 
+Preparations. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Thirty-seventh report. Geneva, World Health Organization, 2003 (WHO Technical Report Series, No. 908), p. 13 and WHOExpert Committee on Speciﬁ cations for Pharmaceutical Preparations. Fortieth 
+report. Geneva, World Health Organization, 2006 (WHO Technical Report Series, No. 937, p. 12.124 Appendix 2 Examples of testing parameters Section I for active pharmaceutical ingredientsIn general, appearance, assay and degradation products should be evaluated for all active pharmaceutical ingredients (APIs). Other API parameters that 
+may be susceptible to change should also be studied where applicable. Section II for ﬁ nished pharmaceutical productsThe following list of parameters for each dosage form is presented as a guide to the types of tests to be included in a stability study. In general, appearance, 
+assay and degradation products should be evaluated for all dosage forms, as 
+well as the preservative and antioxidant content if applicable.The microbial quality of multiple-dose sterile and non-sterile dosage forms should be controlled. Challenge tests should be carried out at least at the 
+beginning and at the end of the shelf-life. Such tests would normally be 
+performed as part of the development programme, for example, within 
+primary stability studies. They need not be repeated for subsequent stability 
+studies unless a change has been made which has a potential impact on 
+microbiological status.It is not expected that every test listed be performed at each time point. This applies in particular to sterility testing, which may be conducted for most 
+sterile products at the beginning and at the end of the stability test period. 
+Tests for pyrogens and bacterial endotoxins may be limited to the time of 
+release. Sterile dosage forms containing dry materials (powder ﬁ lled or lyophilized products) and solutions packaged in sealed glass ampoules 
+may need no additional microbiological testing beyond the initial time 
+point. The level of microbiological contamination in liquids packed in 
+glass containers with ﬂ exible seals or in plastic containers should be tested no less than at the beginning and at the end of the stability test 
+period; if the long-term data provided to the regulatory authorities for 
+marketing authorization registration do not cover the full shelf-life period, 
+the level of microbial contamination at the last time point should also be 
+provided.The list of tests presented for each dosage form is not intended to be exhaustive, nor is it expected that every test listed be included in the design 
+of a stability protocol for a particular ﬁ nished pharmaceutical product (FPP) (for example, a test for odour should be performed only when necessary 
+and with consideration for the analyst’s safety).125The storage orientation of the product, i.e. upright versus inverted, may need to be included in a protocol when contact of the product with the closure 
+system may be expected to affect the stability of the products contained, or 
+where there has been a change in the container closure system.TabletsDissolution (or disintegration, if justiﬁ ed), water content and hardness/friability.CapsulesHard gelatin capsules: brittleness, dissolution (or disintegration, if •justiﬁ ed), water content and level of microbial contamination.Soft gelatin capsules: dissolution (or disintegration, if justiﬁ ed), level of •microbial contamination, pH, leakage, and pellicle formation.Oral solutions, suspensions and emulsionsFormation of precipitate, clarity (for solutions), pH, viscosity, extractables, 
+level of microbial contamination.Additionally for suspensions, dispersibility, rheological properties, mean size and distribution of particles should be considered. Also polymorphic 
+conversion may be examined, if applicable.Additionally for emulsions, phase separation, mean size and distribution of dispersed globules should be evaluated.Powders and granules for oral solution or suspensionWater content and reconstitution time.Reconstituted products (solutions and suspensions) should be evaluated as described above under “Oral solutions suspensions and emulsions”, after 
+preparation according to the recommended labelling, through the maximum 
+intended use period.Metered-dose inhalers and nasal aerosolsDose content uniformity, labelled number of medication actuations per 
+container meeting dose content uniformity, aerodynamic particle size 
+distribution, microscopic evaluation, water content, leak rate, level of 
+microbial contamination, valve delivery (shot weight), extractables/
+leachables from plastic and elastomeric components,weight loss, pump delivery, foreign particulate matter and extractables/leachables from plastic 
+and elastomeric components of the container, closure and pump. Samples 
+should be stored in upright and inverted/on-the-side orientations.For suspension-type aerosols, microscopic examination of appearance of the valve components and container’s contents for large particles, changes 
+in morphology of the API particles, extent of agglomerates, crystal growth, 126foreign particulate matter, corrosion of the inside of the container or deterioration of the gaskets.Nasal sprays: solutions and suspensionsClarity (for solution), level of microbial contamination, pH, particulate 
+matter, unit spray medication content uniformity, number of actuations 
+meeting unit spray content uniformity per container, droplet and/
+or particle size distribution, weight loss, pump delivery, microscopic 
+evaluation (for suspensions), foreign particulate matter and extractables/
+leachables from plastic and elastomeric components of the container, 
+closure and pump.Topical, ophthalmic and otic preparationsIncluded in this broad category are ointments, creams, lotions, paste, gel, 
+solutions, eye drops and cutaneous sprays.Topical preparations should be evaluated for clarity, homogeneity, pH, •suspendability (for lotions), consistency, viscosity, particle size distribution 
+(for suspensions, when feasible), level of microbial contamination/sterility 
+and weight loss (when appropriate).Evaluation of ophthalmic or otic products (e.g. creams, ointments, •solutions and suspensions) should include the following additional 
+attributes: sterility, particulate matter and extractable volume.
+Evaluation of cutaneous sprays should include: pressure, weight loss, net •weight dispensed, delivery rate, level of microbial contamination, spray 
+pattern, water content and particle size distribution (for suspensions).SuppositoriesSoftening range, disintegration and dissolution (at 37 °C).Small volume parenterals (SVPs)Colour, clarity (for solutions), particulate matter, pH, sterility, endotoxins.Stability studies for powders for injection solution should include monitoring for colour, reconstitution time and water content. Speciﬁ c parameters to be examined at appropriate intervals throughout the maximum intended 
+use period of the reconstituted drug product, stored under condition(s) 
+recommended on the label, should include clarity, colour, pH, sterility, 
+pyrogen/endotoxin and particulate matter.It may be appropriate to consider 
+monitoring of sterility after reconstitution into a product, e.g. dual-chamber 
+syringe, where it is claimed that reconstitution can be performed without 
+compromising sterility.The stability studies for Suspension for injection should include, in addition, •particle size distribution, dispersibility and rheological properties.127The stability studies for Emulsion for injection should include, in addition, •phase separation, viscosity, mean size and distribution of dispersed phase 
+globules.Large volume parenterals (LVPs)Colour, clarity, particulate matter, pH, sterility, pyrogen/endotoxin and 
+volume.Transdermal patchesIn vitro release rates, leakage, level of microbial contamination/sterility, 
+peel and adhesive forces.128Appendix 3 Recommended labelling statements1. Active pharmaceutical ingredientsThe statements that should be used if supported by the stability studies for active pharmaceutical ingredients (APIs) are listed in Table 1.Table 1Recommended labelling statements for active pharmaceutical ingredients (APIs)Testing condition under which the stability of the API has been demonstratedRecommended labellingstatementa25 °C/60% RH (long-term)
+40 °C/75% RH (accelerated)“Do not store above 25 °C” 25 °C/60% RH (long-term)30 °C/65% RH (intermediate, failure of accelerated)“Do not store above 25 °C”b30 °C/65% RH (long-term)40 °C/75% RH (accelerated)“Do not store above 30 °C”b30 °C/75% RH (long-term)40 °C/75% RH (accelerated)“Do not store above 30 °C”5 °C ± 3 °C”Store in a refrigerator(2 °C to 8 °C)” -20 °C ± 5 °C“Store in freezer” a During storage, shipment and distribution of the API, the current good trade and distribution practices (GTDP) for pharmaceutical starting materials are to be observed(1). Details on storage and labelling requirements can be found in WHO guide to good storage practices for pharmaceuticals (2).b “Protect from moisture” should be added as applicable.2. Finished pharmaceutical productsThe statements that should be used if supported by the stability studies for ﬁ nished pharmaceutical products (FPPs) are listed in Table 2.129Table 2Recommended labelling statements for ﬁ nished pharmaceutical products (FPPs)Testing condition under which the stability of the FPP has been demonstratedRecommended labellingstatementa25 °C/60% RH (long-term)
+40 °C/75% RH (accelerated)“Do not store above 25 °C” 25 °C/60% RH (long-term)30 °C/65% RH (intermediate, failure of accelerated)“Do not store above 25 °C”b30 °C/65% RH (long-term)40 °C/75% RH (accelerated)“Do not store above 30 °C” b 30 °C/75% RH (long-term)40 °C/75% RH (accelerated)“Do not store above 30 °C”5 °C ± 3 °C”Store in a refrigerator(2 °C to 8 °C)” -20 °C ± 5 °C“Store in freezer” a During storage, shipment and distribution of the FPP, the current good distribution practices (GDP) for pharmaceutical products are to be observed (3). Details on storage and labelling requirements can be found inWHO guide to good storage practices for pharmaceuticals (2).b  “Protect from moisture” should be added as applicable.In principle, FPPs should be packed in containers that ensure stability and protect the FPP from deterioration. A storage statement should not be used 
+to compensate for inadequate or inferior packaging. Additional labelling 
+statements that could be used in cases where the result of the stability testing 
+demonstrates limiting factors are listed in Table 3.Table 3Additional labelling statements for use where the result of the stability testing demonstrates limiting factorsLimiting factorsAdditional labelling statement, where relevantFPPs that cannot tolerate refrigeration“Do not refrigerate or freeze”aFPPs that cannot tolerate freezing“Do not freeze”aLight-sensitive FPPs“Protect from light”
+FPPs that cannot tolerate excessive heat, e.g. suppositories“Store and transport not above 30 °C”Hygroscopic FPPs “Store in dry condition”a Depending on the pharmaceutical form and the properties of the FPP, there may be a risk of deterioration due to physical changes if subjected to low temperatures, e.g. liquids and semi-solids. Low temperatures may also 
+have an effect on the packaging in certain cases. An additional statement may be necessary to take account 
+of this possibility.130References1. Good trade and distribution practices for pharmaceutical starting materials. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Thirty-eighth report. Geneva, World Health Organization, 2004, Annex 2 (WHO Technical Report Series, No. 917) (http://whqlibdoc.who.int/
+trs/WHO_TRS_917_annex2.pdf).2. Guide to good storage practices for pharmaceuticals. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Thirty-seventh report. Geneva, World Health Organization, 2003, Annex 9 (WHO Technical Report Series, No. 908).3. Good distribution practices for pharmaceutical products. In: WHO Expert Committee on Speciﬁ cations for Pharmaceutical Preparations. Fortieth report.Geneva, World Health Organization, 2006, Annex 5 (WHO Technical Report 
+Series, No. 937). Currently under revision (working document QAS/08.252).
