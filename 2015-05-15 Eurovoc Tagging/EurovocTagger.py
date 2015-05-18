@@ -51,7 +51,41 @@ def FolderListToDic(List):
             text = myfile.read()
         Dic[FileName]= text
     return Dic
+
+def TokenCleaning(token, stemmer):
+    token = token.lower()
+    token = stemmer_en.stem(token)
+    return token
+
+def RegexFromTerm(term, stemmer):
+
+    # Regex Opening
+    ################
+    regex = r"\b("
+
+    # Adding terms to regex
+    ########################
+    tokensList = nltk.word_tokenize(term)
+    # en cas de terme à un mot
+    if len(tokensList) == 1: 
+        for token in tokensList:
+            regex += TokenCleaning(token, stemmer)
+    # si c'est un terme multi-mot
+    else: 
+        decount = len(tokensList)
+        for token in tokensList:
+            decount = decount -1
+            # ajout de l'entre-mots
+            if decount != len(tokensList)-1:
+                regex+= r'\w*\W\w*\W*'
+            # ajout du token
+            regex += TokenCleaning(token, stemmer)
+
+    # Regex Closure
+    ################
+    regex += '''\w{0,5})(\W)'''
     
+    return regex
 
 
 #####################################################
@@ -70,7 +104,7 @@ print('Eurovoc importated!')
 
 #=====================
 
-# création d'une liste avec le nom des documents
+# déplacement de dossier
 
 print('moving to corpus folder...')
 os.chdir('corpus/')
@@ -101,31 +135,11 @@ for DocName in DocList:
 #  un tag de concept se fera avec une étoile (*), et l'identifiant avec un +
     
     for concept in ConceptList:
+        
         if concept != "": # IMPORTANT POUR EVITER DE TAGGER TOUT
 
-            ####################
-            # REGEX CREATION   #
-            ####################
-
-            regex = r"\b("
-            tokensList = nltk.word_tokenize(concept)
-            if len(tokensList) == 1: # en cas de terme à un mot
-                for token in tokensList:
-                    token = token.lower()
-                    token = stemmer_en.stem(token)
-                    regex += token
-            else: # si c'est un terme multi-mot
-                decount = len(tokensList)
-                for token in tokensList:
-                    decount = decount -1
-                    if decount != len(tokensList)-1:
-                        regex+= r'\w*\W\w*\W*' # admet un spération de 0 è 5 mots
-                    token = token.lower()
-                    token = stemmer_en.stem(token)
-                    regex += token
-            regex += '''\w{0,5})(\W)''' # longueur minimale apres le stemme pour eviter P. ex. que sea avec son "se" devienne "selection"
-
-            # Now the regex is done
+            # REGEX CREATION
+            regex = RegexFromTerm(concept, stemmer_en)
 
             ####################
             # TEMPORARY TAGGING#
